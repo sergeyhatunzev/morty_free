@@ -7,11 +7,12 @@ vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?encryption=none&
 
 
 #США
-
+vless://86bf799e-09ff-49d6-ba80-de5c6dc69e5e@142.171.55.105:40259?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=ZeTfsscXccAFfDL8ZUMlKaP0rTVBuSQJqGJK7vKy1Sw&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%28%D0%A1%D0%A8%D0%90%29
 
 vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?encryption=none&security=reality&sni=Tgju.org&fp=chrome&pbk=S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g&sid=b525ecd2fc&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28Germany%29
 # Белый список
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGONCi0LXRgdGCINCR0LXQu9GL0Lkg0YHQv9C40YHQvtC6ICjQndC1INGC0YDQvtCz0LDRgtGMINC10YHQu9C4INGC0Ysg0L3QtSDQt9C90LDQtdGI0Ywg0LTQu9GPINGH0LXQs9C+KSIsDQogICJhZGQiOiAiNDUuOC4xNDYuMTI5IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMDcwNDAxNmYtNTQzNS00NjU1LWJlNmEtNzcxYTVhYmE1MmMzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogImVoLnZrLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiZWgudmsuY29tIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+
 
 
 
