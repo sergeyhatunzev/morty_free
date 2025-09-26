@@ -29,10 +29,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGMyDQkdC1
 
 #неизвестно
 
-vless://b942f6c0-6175-4b15-888c-254467732a4c@tunnel.vk-apps.com:443?path=%2Fvless&security=tls&alpn=http%2F1.1&encryption=none&host=user1073564650-telntblj.tunnel.vk-apps.com&type=ws&sni=tunnel.vk-apps.com#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A7%D0%95%D0%91%D0%A3%D0%A0%D0%9D%D0%95%D0%A2%20%7C%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
+vless://637bf84b-3ac9-4da1-8f5c-646d5885917d@5.189.223.87:443?security=reality&encryption=none&pbk=xRCMScr2wNfyLqkcF1zba07lhB1HPbwkEshFaH7g5iw&headerType=none&fp=chrome&type=tcp&sni=ozon.ru&sid=28d10d685a17428e#%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%28%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%29
 
 
 vless://a5d3dd71-12b2-4428-a789-a8bf31f13aa6@144.31.165.151:443?security=reality&encryption=none&pbk=DIc6OJ4_qR8IsBN2_s1Peyr4n_tp06A-KzxagJc6uQI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=fdf9ffbc14bc6a#%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA2%20%28%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%29
+
 
 
 
