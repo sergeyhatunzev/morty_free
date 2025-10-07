@@ -2,7 +2,6 @@
 
 
 #Израиль
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B1%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C
 
 
 
@@ -21,7 +20,7 @@ vmess://eyJhZGQiOiI4OS4xNjkuMTMuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI0NS44LjE0Ni4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImVoLnZrLmNvbSIsImlkIjoiMDcwNDAxNmYtNTQzNS00NjU1LWJlNmEtNzcxYTVhYmE1MmMzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7jQkdC10LvRi9C5INGB0L/QuNGB0L7QuiDRgtC10LvQtSAyINGA0LXQt9C10YDQsiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGMyDQkdC10LvRi9C5INGB0L/QuNGB0L7QuiAo0KLQtdC70LUyKSIsDQogICJhZGQiOiAiMTUyLjY3LjguMjA1IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogImQtYXNzZXRzLjJnaXMucnUiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogInVzZXItZ2VvLWRhdGEud2lsZGJlcnJpZXMucnUiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+
 
 # мегафон
 
@@ -33,6 +32,7 @@ vless://f154c042-10f7-4f92-81fa-31585e6b06cf@vk-cloud.nebesniy.com:443?security=
 
 
 vless://0ce126ae-479b-438c-b9e7-326e65c73ea6@cdn.romania.nebesniy.com:443?mode=auto&path=%2FbgJTOHZcm9pNB5XM3was%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdn.romania.nebesniy.com&fp=random&type=xhttp&sni=cdn.romania.nebesniy.com#%F0%9F%87%B7%F0%9F%87%B4%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9
+
 
 
 
