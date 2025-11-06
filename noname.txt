@@ -16,7 +16,7 @@ vless://9f4c447a-00ef-46ae-9b82-235a16363364@midorinote.ru:8443?security=reality
 
 
 # Теле2
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGONCR0LXQu9GL0Lkg0YHQv9C40YHQvtC6INGC0LXQu9C1IDIg0YDQtdC30LXRgNCyIiwNCiAgImFkZCI6ICI0NS44LjE0Ni4xMjkiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICIwNzA0MDE2Zi01NDM1LTQ2NTUtYmU2YS03NzFhNWFiYTUyYzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVoLnZrLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vless://8de85bc6-4f12-47e0-872f-3794b4ef9783@217.16.24.170:443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=5540e44a53c3d01c#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A2%D0%B5%D0%BB%D0%B52%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9
 
 
 vless://1142da7b-d797-4ebc-a8c4-e68d0deb7db6@95.163.251.109:8443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=FlXode42xAfpPAZqNx7_E3hRJn2crk6T4-E1-vvDqwk&sid=fd9b13127ec2d4&spx=%2Fmarqusha_vpn%2F&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%A2%D0%95%D0%9B%D0%952
@@ -26,6 +26,7 @@ vless://1142da7b-d797-4ebc-a8c4-e68d0deb7db6@95.163.251.109:8443?encryption=none
 
 # мегафон
 vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=random&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%20%D0%B8%20%D0%A2%D0%B5%D0%BB%D0%B52%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5
+
 
 
 
