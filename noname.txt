@@ -2,7 +2,7 @@
 
 
 #Израиль
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B1%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C
+
 
 
 
@@ -16,16 +16,15 @@ vless://9f4c447a-00ef-46ae-9b82-235a16363364@midorinote.ru:8443?security=reality
 
 
 # Теле2
-vless://8de85bc6-4f12-47e0-872f-3794b4ef9783@217.16.24.170:443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=5540e44a53c3d01c#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A2%D0%B5%D0%BB%D0%B52%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9
+vless://8de85bc6-4f12-47e0-872f-3794b4ef9783@217.16.24.170:443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=5540e44a53c3d01c#🇷🇺 Теле2 и мегафон белые 
 
-
-vless://1142da7b-d797-4ebc-a8c4-e68d0deb7db6@95.163.251.109:8443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=FlXode42xAfpPAZqNx7_E3hRJn2crk6T4-E1-vvDqwk&sid=fd9b13127ec2d4&spx=%2Fmarqusha_vpn%2F&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%A2%D0%95%D0%9B%D0%952
 
 
 
 
 # мегафон
 vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=random&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%20%D0%B8%20%D0%A2%D0%B5%D0%BB%D0%B52%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5
+
 
 
 
