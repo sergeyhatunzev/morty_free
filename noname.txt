@@ -1,30 +1,12 @@
-# Нидерланды
-
-
-#германия новая
-vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.99.185.63:443?encryption=none&security=reality&sni=store.steampowered.com&fp=chrome&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&spx=%2F&type=xhttp&path=%2Fsdf&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F%29
-
-
-
-#США
-
-vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?encryption=none&security=reality&sni=Tgju.org&fp=chrome&pbk=S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g&sid=b525ecd2fc&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28Germany%29
 
 #Либерти фрии
 vless://9f4c447a-00ef-46ae-9b82-235a16363364@midorinote.ru:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=387d2fb5f83c0cde#%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D1%82%D0%B8%20%D1%84%D1%80%D0%B8%D0%B8
-# Белый список
-vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=s3.yandex.net#Билайн белые
-
-vless://8de85bc6-4f12-47e0-872f-3794b4ef9783@217.16.24.170:443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=5540e44a53c3d01c#🇷🇺 Универсальные белые
-# Теле2
-
-
-
 
 
 
 # мегафон
 vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=random&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%2C%20%D0%A2%D0%B5%D0%BB%D0%B52%2C%20%D0%91%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5
+
 
 
 
