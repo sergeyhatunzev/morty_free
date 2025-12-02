@@ -12,6 +12,7 @@ vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none
 
 
 
+vless://ef73256e-c80d-4b92-b36d-a63649cd2d15@51.250.9.196:443?security=reality&encryption=none&pbk=1LeZaQvQySNCrNmRU_-Y143RO2OqFN4JUsOT3fbtyS4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=7d77500f1352bbc3#Мегафон🇱🇹Уневерсальный белый резерв
 
 
 
