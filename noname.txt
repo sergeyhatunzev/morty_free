@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: Morty Free Famaly
+#profile-title: Morty Free VPN Famaly
 #support-url: https://t.me/FullNOOBS
 #profile-web-page-url: https://t.me/FullNOOBS
 #announce: Все конфигурации в подписке собраны лично моной и запрещается их дальнейшее распростронение
@@ -24,6 +24,7 @@ vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none
 
 
 #ЛИБЕРТИ 11.01
+
 
 
 
