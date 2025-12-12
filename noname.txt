@@ -28,8 +28,9 @@ vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none
 
 
 #TELE2 BEELINE
-vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20%D0%A22%2C%20BEELINE%201
-vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20%D0%A22%2C%20BEELINE%202
+vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, БИЛАЙН Б/C 1
+vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, BEELINE Б/C 2
+
 
 
 
