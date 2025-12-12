@@ -1,5 +1,6 @@
 #profile-update-interval: 1
 #profile-title: Morty Free Famaly
+#profile-web-page-url: https://t.me/FullNOOBS
 #support-url: https://t.me/FullNOOBS
 #profile-web-page-url: https://t.me/FullNOOBS
 #announce: Все конфигурации в подписке собраны лично моной и запрещается их дальнейшее распростронение 
