@@ -2,8 +2,7 @@
 #profile-title: Morty Free VPN Famaly
 #support-url: https://t.me/FullNOOBS
 #profile-web-page-url: https://t.me/FullNOOBS
-#announce: Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение!    ВНИМАНИЕ!!!                                                                                    СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ
-
+#announce: Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение!    ВНИМАНИЕ!!!                                                                                    СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ ВЫБИРАЙТЕ СЕРВЕР С НАИМЕНЬШИМ ПИНГОМ P.S. Обновление 20.12.2025
 
 
 
@@ -17,21 +16,24 @@ vless://c84cafa0-81d0-4035-9bcb-83c7564cd4ac@austria-nc.geodema.network:443?secu
 vless://9f4c447a-00ef-46ae-9b82-235a16363364@midorinote.ru:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=387d2fb5f83c0cde#🇳🇱 Нидерланды
 
 
-# мегафон неизвестно откуда спиздил
-vless://mega1@5.129.249.134:443?security=reality&encryption=none&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=ab1cd2#🇷🇺 МЕГАФОН БЕЛЫЕ
+# мегафон теле2 билайн неизвестно откуда спиздил
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@51.250.43.137:2053?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=firefox&type=ws&sni=vless.hubp.de#🇩🇪 МЕГАФОН, Т2, БИЛАЙН Б\С
 
 # мегафон
-vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=random&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#🇳🇱 МЕГАФОН БЕЛЫЕ
+vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=firefox&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#🇳🇱 МЕГАФОН Б\С
 
 
 
 #ЛИБЕРТИ 11.01
 
+vless://9a6f8fe6-2a8a-466e-b41e-7dda282ae8ed@89.208.86.65:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f32140952ba18e18#🇮🇹 МЕГАФОН, Т2 Б/C
 
+vless://8c6337ab-d82f-4a40-854d-0a7b4bb80a38@95.163.249.95:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=1929ef620e9b34f5#🇵🇱 МЕГАФОН, БИЛАЙН Б/C
 
 #TELE2 BEELINE
-vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, БИЛАЙН Б/C 1
-vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, BEELINE Б/C 2
+vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, БИЛАЙН Б/C 1
+vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, BEELINE Б/C 2
+
 
 
 
