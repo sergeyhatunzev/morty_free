@@ -17,7 +17,7 @@ vless://9f4c447a-00ef-46ae-9b82-235a16363364@midorinote.ru:8443?security=reality
 
 
 # мегафон теле2 билайн неизвестно откуда спиздил
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@51.250.43.137:2053?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=firefox&type=ws&sni=vless.hubp.de#🇩🇪 МЕГАФОН, Т2, БИЛАЙН Б\С
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@51.250.43.137:2053?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=firefox&type=ws&sni=vless.hubp.de#🇩🇪 МЕГАФОН, Т2, БИЛАЙН Б/С
 
 # мегафон
 vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=firefox&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#🇳🇱 МЕГАФОН Б/С
@@ -33,6 +33,7 @@ vless://8c6337ab-d82f-4a40-854d-0a7b4bb80a38@95.163.249.95:8443?security=reality
 #TELE2 BEELINE
 vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, БИЛАЙН Б/C 1
 vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, BEELINE Б/C 2
+
 
 
 
