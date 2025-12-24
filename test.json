@@ -1,3 +1,4 @@
+[
 {
   "log": {
     "loglevel": "warning"
@@ -2014,3 +2015,4 @@
     "enableConcurrency": true
   }
 }
+]
