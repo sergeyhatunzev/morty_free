@@ -1,3 +1,11 @@
+#profile-update-interval: 1
+#profile-title: Morty Free VPN Famaly
+#support-url: https://t.me/FullNOOBS
+#profile-web-page-url: https://t.me/FullNOOBS
+#announce: Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение!    ВНИМАНИЕ!!!                                                                                    СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ ВЫБИРАЙТЕ СЕРВЕР С НАИМЕНЬШИМ ПИНГОМ P.S. Обновление 20.12.2025
+
+
+
 {
   "dns": {
     "hosts": {
