@@ -5,7 +5,337 @@
 #announce: Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение!    ВНИМАНИЕ!!!                                                                                    СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ ВЫБИРАЙТЕ СЕРВЕР С НАИМЕНЬШИМ ПИНГОМ P.S. Обновление 24.12.25
 
 #Германия мульти
-ewogICJkbnMiOiB7CiAgICAiaG9zdHMiOiB7CiAgICAgICJkb21haW46Z29vZ2xlYXBpcy5jbiI6ICJnb29nbGVhcGlzLmNvbSIsCiAgICAgICJkbnMuYWxpZG5zLmNvbSI6IFsKICAgICAgICAiMjIzLjUuNS41IiwKICAgICAgICAiMjIzLjYuNi42IiwKICAgICAgICAiMjQwMDozMjAwOjoxIiwKICAgICAgICAiMjQwMDozMjAwOmJhYmE6OjEiCiAgICAgIF0sCiAgICAgICJvbmUub25lLm9uZS5vbmUiOiBbCiAgICAgICAgIjEuMS4xLjEiLAogICAgICAgICIxLjAuMC4xIiwKICAgICAgICAiMjYwNjo0NzAwOjQ3MDA6OjExMTEiLAogICAgICAgICIyNjA2OjQ3MDA6NDcwMDo6MTAwMSIKICAgICAgXSwKICAgICAgImRucy5jbG91ZGZsYXJlLmNvbSI6IFsKICAgICAgICAiMTA0LjE2LjEzMi4yMjkiLAogICAgICAgICIxMDQuMTYuMTMzLjIyOSIsCiAgICAgICAgIjI2MDY6NDcwMDo6NjgxMDo4NGU1IiwKICAgICAgICAiMjYwNjo0NzAwOjo2ODEwOjg1ZTUiCiAgICAgIF0sCiAgICAgICJjbG91ZGZsYXJlLWRucy5jb20iOiBbCiAgICAgICAgIjEwNC4xNi4yNDguMjQ5IiwKICAgICAgICAiMTA0LjE2LjI0OS4yNDkiLAogICAgICAgICIyNjA2OjQ3MDA6OjY4MTA6ZjhmOSIsCiAgICAgICAgIjI2MDY6NDcwMDo6NjgxMDpmOWY5IgogICAgICBdLAogICAgICAiZG90LnB1YiI6IFsKICAgICAgICAiMS4xMi4xMi4xMiIsCiAgICAgICAgIjEyMC41My41My41MyIKICAgICAgXSwKICAgICAgImRucy5nb29nbGUiOiBbCiAgICAgICAgIjguOC44LjgiLAogICAgICAgICI4LjguNC40IiwKICAgICAgICAiMjAwMTo0ODYwOjQ4NjA6Ojg4ODgiLAogICAgICAgICIyMDAxOjQ4NjA6NDg2MDo6ODg0NCIKICAgICAgXSwKICAgICAgImRucy5xdWFkOS5uZXQiOiBbCiAgICAgICAgIjkuOS45LjkiLAogICAgICAgICIxNDkuMTEyLjExMi4xMTIiLAogICAgICAgICIyNjIwOmZlOjpmZSIsCiAgICAgICAgIjI2MjA6ZmU6OjkiCiAgICAgIF0sCiAgICAgICJjb21tb24uZG90LmRucy55YW5kZXgubmV0IjogWwogICAgICAgICI3Ny44OC44LjgiLAogICAgICAgICI3Ny44OC44LjEiLAogICAgICAgICIyYTAyOjZiODo6ZmVlZDowZmYiLAogICAgICAgICIyYTAyOjZiODowOjE6OmZlZWQ6MGZmIgogICAgICBdLAogICAgICAiZGUtaDIuZ2VvZGVtYS5uZXR3b3JrIjogWwogICAgICAgICI5NC4xNTkuMTAwLjY5IiwKICAgICAgICAiNjQ6ZmY5Yjo6NWU5Zjo2NDQ1IgogICAgICBdCiAgICB9LAogICAgInNlcnZlcnMiOiBbCiAgICAgIHsKICAgICAgICAiYWRkcmVzcyI6ICJmYWtlZG5zIiwKICAgICAgICAiZG9tYWlucyI6IFsKICAgICAgICAgICJnZW9zaXRlOmNuIgogICAgICAgIF0KICAgICAgfSwKICAgICAgIjEuMS4xLjEiCiAgICBdLAogICAgInRhZyI6ICJkbnMtbW9kdWxlIgogIH0sCiAgImZha2VkbnMiOiBbCiAgICB7CiAgICAgICJpcFBvb2wiOiAiMTk4LjE4LjAuMC8xNSIsCiAgICAgICJwb29sU2l6ZSI6IDEwMDAwCiAgICB9CiAgXSwKICAiaW5ib3VuZHMiOiBbCiAgICB7CiAgICAgICJsaXN0ZW4iOiAiMTI3LjAuMC4xIiwKICAgICAgInBvcnQiOiAxMDgwOCwKICAgICAgInByb3RvY29sIjogInNvY2tzIiwKICAgICAgInNldHRpbmdzIjogewogICAgICAgICJhdXRoIjogIm5vYXV0aCIsCiAgICAgICAgInVkcCI6IHRydWUsCiAgICAgICAgInVzZXJMZXZlbCI6IDgKICAgICAgfSwKICAgICAgInNuaWZmaW5nIjogewogICAgICAgICJkZXN0T3ZlcnJpZGUiOiBbCiAgICAgICAgICAiaHR0cCIsCiAgICAgICAgICAidGxzIiwKICAgICAgICAgICJmYWtlZG5zIgogICAgICAgIF0sCiAgICAgICAgImVuYWJsZWQiOiB0cnVlLAogICAgICAgICJyb3V0ZU9ubHkiOiBmYWxzZQogICAgICB9LAogICAgICAidGFnIjogInNvY2tzIgogICAgfSwKICAgIHsKICAgICAgImxpc3RlbiI6ICIxMjcuMC4wLjEiLAogICAgICAicG9ydCI6IDEwODc4LAogICAgICAicHJvdG9jb2wiOiAiZG9rb2RlbW8tZG9vciIsCiAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAiYWRkcmVzcyI6ICIxLjEuMS4xIiwKICAgICAgICAibmV0d29yayI6ICJ0Y3AsdWRwIiwKICAgICAgICAicG9ydCI6IDUzCiAgICAgIH0sCiAgICAgICJ0YWciOiAiZG5zLWluIgogICAgfQogIF0sCiAgImxvZyI6IHsKICAgICJsb2dsZXZlbCI6ICJ3YXJuaW5nIgogIH0sCiAgIm9ic2VydmF0b3J5IjogewogICAgImVuYWJsZUNvbmN1cnJlbmN5IjogdHJ1ZSwKICAgICJwcm9iZUludGVydmFsIjogIjNtIiwKICAgICJwcm9iZVVybCI6ICJodHRwczovL3d3dy5nc3RhdGljLmNvbS9nZW5lcmF0ZV8yMDQiLAogICAgInN1YmplY3RTZWxlY3RvciI6IFsKICAgICAgInByb3h5LSIKICAgIF0KICB9LAogICJvdXRib3VuZHMiOiBbCiAgICB7CiAgICAgICJtdXgiOiB7CiAgICAgICAgImNvbmN1cnJlbmN5IjogLTEsCiAgICAgICAgImVuYWJsZWQiOiBmYWxzZQogICAgICB9LAogICAgICAicHJvdG9jb2wiOiAidmxlc3MiLAogICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgInZuZXh0IjogWwogICAgICAgICAgewogICAgICAgICAgICAiYWRkcmVzcyI6ICJkZS1oMi5nZW9kZW1hLm5ldHdvcmsiLAogICAgICAgICAgICAicG9ydCI6IDQ0MywKICAgICAgICAgICAgInVzZXJzIjogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJlbmNyeXB0aW9uIjogIm5vbmUiLAogICAgICAgICAgICAgICAgImZsb3ciOiAieHRscy1ycHJ4LXZpc2lvbiIsCiAgICAgICAgICAgICAgICAiaWQiOiAiMTYyMzAyMDItMjhmMC00MjUxLWIyMzctZTA2NmNjYzU1ZjExIiwKICAgICAgICAgICAgICAgICJsZXZlbCI6IDgKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAibmV0d29yayI6ICJ0Y3AiLAogICAgICAgICJyZWFsaXR5U2V0dGluZ3MiOiB7CiAgICAgICAgICAiYWxsb3dJbnNlY3VyZSI6IGZhbHNlLAogICAgICAgICAgImZpbmdlcnByaW50IjogImZpcmVmb3giLAogICAgICAgICAgInB1YmxpY0tleSI6ICJFbHRXSThBT3FrTjhsTWpSeWN3ZVJSb0ZSYWg1aHU2eGlLdGdCbVFPZEU4IiwKICAgICAgICAgICJzZXJ2ZXJOYW1lIjogImRlLWgyLmdlb2RlbWEubmV0d29yayIsCiAgICAgICAgICAic2hvcnRJZCI6ICIxZWQxMzY0ODFlMGVkZTc0IiwKICAgICAgICAgICJzaG93IjogZmFsc2UKICAgICAgICB9LAogICAgICAgICJzZWN1cml0eSI6ICJyZWFsaXR5IiwKICAgICAgICAic29ja29wdCI6IHsKICAgICAgICAgICJkb21haW5TdHJhdGVneSI6ICJVc2VJUCIsCiAgICAgICAgICAiaGFwcHlFeWViYWxscyI6IHsKICAgICAgICAgICAgImludGVybGVhdmUiOiAyLAogICAgICAgICAgICAibWF4Q29uY3VycmVudFRyeSI6IDQsCiAgICAgICAgICAgICJwcmlvcml0aXplSVB2NiI6IGZhbHNlLAogICAgICAgICAgICAidHJ5RGVsYXlNcyI6IDI1MAogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInRjcFNldHRpbmdzIjogewogICAgICAgICAgImhlYWRlciI6IHsKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgICJ0YWciOiAicHJveHktMSIKICAgIH0sCiAgICB7CiAgICAgICJtdXgiOiB7CiAgICAgICAgImNvbmN1cnJlbmN5IjogLTEsCiAgICAgICAgImVuYWJsZWQiOiBmYWxzZQogICAgICB9LAogICAgICAicHJvdG9jb2wiOiAidmxlc3MiLAogICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgInZuZXh0IjogWwogICAgICAgICAgewogICAgICAgICAgICAiYWRkcmVzcyI6ICJkZS1oMi5nZW9kZW1hLm5ldHdvcmsiLAogICAgICAgICAgICAicG9ydCI6IDQ0MywKICAgICAgICAgICAgInVzZXJzIjogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJlbmNyeXB0aW9uIjogIm5vbmUiLAogICAgICAgICAgICAgICAgImZsb3ciOiAieHRscy1ycHJ4LXZpc2lvbiIsCiAgICAgICAgICAgICAgICAiaWQiOiAiYTdkMTE3ZmEtNzNkYS00NTgxLTk0ODgtNDdiNWY0YzY1MTRiIiwKICAgICAgICAgICAgICAgICJsZXZlbCI6IDgKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAibmV0d29yayI6ICJ0Y3AiLAogICAgICAgICJyZWFsaXR5U2V0dGluZ3MiOiB7CiAgICAgICAgICAiYWxsb3dJbnNlY3VyZSI6IGZhbHNlLAogICAgICAgICAgImZpbmdlcnByaW50IjogImZpcmVmb3giLAogICAgICAgICAgInB1YmxpY0tleSI6ICJFbHRXSThBT3FrTjhsTWpSeWN3ZVJSb0ZSYWg1aHU2eGlLdGdCbVFPZEU4IiwKICAgICAgICAgICJzZXJ2ZXJOYW1lIjogImRlLWgyLmdlb2RlbWEubmV0d29yayIsCiAgICAgICAgICAic2hvcnRJZCI6ICIxZWQxMzY0ODFlMGVkZTc0IiwKICAgICAgICAgICJzaG93IjogZmFsc2UKICAgICAgICB9LAogICAgICAgICJzZWN1cml0eSI6ICJyZWFsaXR5IiwKICAgICAgICAic29ja29wdCI6IHsKICAgICAgICAgICJkb21haW5TdHJhdGVneSI6ICJVc2VJUCIsCiAgICAgICAgICAiaGFwcHlFeWViYWxscyI6IHsKICAgICAgICAgICAgImludGVybGVhdmUiOiAyLAogICAgICAgICAgICAibWF4Q29uY3VycmVudFRyeSI6IDQsCiAgICAgICAgICAgICJwcmlvcml0aXplSVB2NiI6IGZhbHNlLAogICAgICAgICAgICAidHJ5RGVsYXlNcyI6IDI1MAogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInRjcFNldHRpbmdzIjogewogICAgICAgICAgImhlYWRlciI6IHsKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgICJ0YWciOiAicHJveHktMiIKICAgIH0sCiAgICB7CiAgICAgICJtdXgiOiB7CiAgICAgICAgImNvbmN1cnJlbmN5IjogLTEsCiAgICAgICAgImVuYWJsZWQiOiBmYWxzZQogICAgICB9LAogICAgICAicHJvdG9jb2wiOiAidmxlc3MiLAogICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgInZuZXh0IjogWwogICAgICAgICAgewogICAgICAgICAgICAiYWRkcmVzcyI6ICJkZS1oMi5nZW9kZW1hLm5ldHdvcmsiLAogICAgICAgICAgICAicG9ydCI6IDQ0MywKICAgICAgICAgICAgInVzZXJzIjogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJlbmNyeXB0aW9uIjogIm5vbmUiLAogICAgICAgICAgICAgICAgImZsb3ciOiAieHRscy1ycHJ4LXZpc2lvbiIsCiAgICAgICAgICAgICAgICAiaWQiOiAiYzg0Y2FmYTAtODFkMC00MDM1LTliY2ItODNjNzU2NGNkNGFjIiwKICAgICAgICAgICAgICAgICJsZXZlbCI6IDgKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgICJzdHJlYW1TZXR0aW5ncyI6IHsKICAgICAgICAibmV0d29yayI6ICJ0Y3AiLAogICAgICAgICJyZWFsaXR5U2V0dGluZ3MiOiB7CiAgICAgICAgICAiYWxsb3dJbnNlY3VyZSI6IGZhbHNlLAogICAgICAgICAgInB1YmxpY0tleSI6ICJFbHRXSThBT3FrTjhsTWpSeWN3ZVJSb0ZSYWg1aHU2eGlLdGdCbVFPZEU4IiwKICAgICAgICAgICJzZXJ2ZXJOYW1lIjogImRlLWgyLmdlb2RlbWEubmV0d29yayIsCiAgICAgICAgICAic2hvcnRJZCI6ICIxZWQxMzY0ODFlMGVkZTc0IiwKICAgICAgICAgICJzaG93IjogZmFsc2UKICAgICAgICB9LAogICAgICAgICJzZWN1cml0eSI6ICJyZWFsaXR5IiwKICAgICAgICAic29ja29wdCI6IHsKICAgICAgICAgICJkb21haW5TdHJhdGVneSI6ICJVc2VJUCIsCiAgICAgICAgICAiaGFwcHlFeWViYWxscyI6IHsKICAgICAgICAgICAgImludGVybGVhdmUiOiAyLAogICAgICAgICAgICAibWF4Q29uY3VycmVudFRyeSI6IDQsCiAgICAgICAgICAgICJwcmlvcml0aXplSVB2NiI6IGZhbHNlLAogICAgICAgICAgICAidHJ5RGVsYXlNcyI6IDI1MAogICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInRjcFNldHRpbmdzIjogewogICAgICAgICAgImhlYWRlciI6IHsKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICAgICJ0YWciOiAicHJveHktMyIKICAgIH0sCiAgICB7CiAgICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICAgInNldHRpbmdzIjogewogICAgICAgICJkb21haW5TdHJhdGVneSI6ICJVc2VJUCIKICAgICAgfSwKICAgICAgInRhZyI6ICJkaXJlY3QiCiAgICB9LAogICAgewogICAgICAicHJvdG9jb2wiOiAiYmxhY2tob2xlIiwKICAgICAgInNldHRpbmdzIjogewogICAgICAgICJyZXNwb25zZSI6IHsKICAgICAgICAgICJ0eXBlIjogImh0dHAiCiAgICAgICAgfQogICAgICB9LAogICAgICAidGFnIjogImJsb2NrIgogICAgfSwKICAgIHsKICAgICAgInByb3RvY29sIjogImRucyIsCiAgICAgICJ0YWciOiAiZG5zLW91dCIKICAgIH0KICBdLAogICJyZW1hcmtzIjogIvCfh6nwn4eqINCT0LXRgNC80LDQvdC40Y8gKNCi0LXRgdGCKSAiLAogICJyb3V0aW5nIjogewogICAgImJhbGFuY2VycyI6IFsKICAgICAgewogICAgICAgICJzZWxlY3RvciI6IFsKICAgICAgICAgICJwcm94eS0iCiAgICAgICAgXSwKICAgICAgICAic3RyYXRlZ3kiOiB7CiAgICAgICAgICAidHlwZSI6ICJsZWFzdFBpbmciCiAgICAgICAgfSwKICAgICAgICAidGFnIjogInByb3h5LXJvdW5kIgogICAgICB9CiAgICBdLAogICAgImRvbWFpblN0cmF0ZWd5IjogIkFzSXMiLAogICAgInJ1bGVzIjogWwogICAgICB7CiAgICAgICAgImluYm91bmRUYWciOiBbCiAgICAgICAgICAiZG5zLWluIgogICAgICAgIF0sCiAgICAgICAgIm91dGJvdW5kVGFnIjogImRucy1vdXQiLAogICAgICAgICJ0eXBlIjogImZpZWxkIgogICAgICB9LAogICAgICB7CiAgICAgICAgImluYm91bmRUYWciOiBbCiAgICAgICAgICAiZG9tZXN0aWMtZG5zIgogICAgICAgIF0sCiAgICAgICAgIm91dGJvdW5kVGFnIjogImRpcmVjdCIsCiAgICAgICAgInR5cGUiOiAiZmllbGQiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiYmFsYW5jZXJUYWciOiAicHJveHktcm91bmQiLAogICAgICAgICJpbmJvdW5kVGFnIjogWwogICAgICAgICAgImRucy1tb2R1bGUiCiAgICAgICAgXSwKICAgICAgICAidHlwZSI6ICJmaWVsZCIKICAgICAgfSwKICAgICAgewogICAgICAgICJiYWxhbmNlclRhZyI6ICJwcm94eS1yb3VuZCIsCiAgICAgICAgIm5ldHdvcmsiOiAidGNwLHVkcCIsCiAgICAgICAgInR5cGUiOiAiZmllbGQiCiAgICAgIH0KICAgIF0KICB9Cn0=
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229",
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ],
+      "de-h2.geodema.network": [
+        "94.159.100.69",
+        "64:ff9b::5e9f:6445"
+      ]
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": [
+          "geosite:cn"
+        ]
+      },
+      "1.1.1.1"
+    ],
+    "tag": "dns-module"
+  },
+  "fakedns": [
+    {
+      "ipPool": "198.18.0.0/15",
+      "poolSize": 10000
+    }
+  ],
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true,
+        "routeOnly": false
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10878,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "1.1.1.1",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "observatory": {
+    "enableConcurrency": true,
+    "probeInterval": "3m",
+    "probeUrl": "https://www.gstatic.com/generate_204",
+    "subjectSelector": [
+      "proxy-"
+    ]
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de-h2.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "16230202-28f0-4251-b237-e066ccc55f11",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "de-h2.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-1"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de-h2.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "a7d117fa-73da-4581-9488-47b5f4c6514b",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "de-h2.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-2"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de-h2.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "c84cafa0-81d0-4035-9bcb-83c7564cd4ac",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "de-h2.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-3"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    }
+  ],
+  "remarks": "🇩🇪 Германия (Тест) ",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "proxy-"
+        ],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "proxy-round"
+      }
+    ],
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "inboundTag": [
+          "dns-in"
+        ],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "domestic-dns"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "inboundTag": [
+          "dns-module"
+        ],
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "network": "tcp,udp",
+        "type": "field"
+      }
+    ]
+  }
+}
 
 
 vless://c84cafa0-81d0-4035-9bcb-83c7564cd4ac@austria-nc.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=austria-nc.geodema.network&sid=1ed136481e0ede74#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20200%20%D0%93%D0%B1%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86
@@ -33,6 +363,7 @@ vless://8c6337ab-d82f-4a40-854d-0a7b4bb80a38@95.163.249.95:8443?security=reality
 #TELE2 BEELINE
 vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, БИЛАЙН Б/C 1
 vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, BEELINE Б/C 2
+
 
 
 
