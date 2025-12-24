@@ -1,19 +1,8 @@
 #profile-update-interval: 1
-#profile-title: Morty Free VPN Famaly
+#profile-title: Белые списки
 #support-url: https://t.me/FullNOOBS
 #profile-web-page-url: https://t.me/FullNOOBS
-#announce: Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение!    ВНИМАНИЕ!!!                                                                                    СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ ВЫБИРАЙТЕ СЕРВЕР С НАИМЕНЬШИМ ПИНГОМ P.S. Обновление 20.12.2025
-
-
-
-vless://c84cafa0-81d0-4035-9bcb-83c7564cd4ac@de-h2.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de-h2.geodema.network&sid=1ed136481e0ede74#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20200%20%D0%93%D0%B1%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86
-
-vless://c84cafa0-81d0-4035-9bcb-83c7564cd4ac@austria-nc.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=austria-nc.geodema.network&sid=1ed136481e0ede74#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20200%20%D0%93%D0%B1%20%D0%B2%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86
-
-
-
-#Либерти фрии
-vless://9f4c447a-00ef-46ae-9b82-235a16363364@midorinote.ru:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=387d2fb5f83c0cde#🇳🇱 Нидерланды
+#announce: Эта подписка рассчитана для работы с белыми списками и будет обновляться чаще из-за того, что операторы постоянно блокируют IP.  
 
 
 # мегафон теле2 билайн неизвестно откуда спиздил
@@ -33,6 +22,7 @@ vless://8c6337ab-d82f-4a40-854d-0a7b4bb80a38@95.163.249.95:8443?security=reality
 #TELE2 BEELINE
 vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.196.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, БИЛАЙН Б/C 1
 vless://1c83fd0f-a62c-4f5f-b633-43e703d737fa@158.160.199.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#🇪🇸 Т2, BEELINE Б/C 2
+
 
 
 
