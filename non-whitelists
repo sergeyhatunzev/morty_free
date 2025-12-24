@@ -1,11 +1,10 @@
 #profile-update-interval: 1
-#profile-title: Morty Free VPN Famaly
+#profile-title: Черный список
 #support-url: https://t.me/FullNOOBS
 #profile-web-page-url: https://t.me/FullNOOBS
-#announce: Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение!    ВНИМАНИЕ!!!                                                                                    СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ ВЫБИРАЙТЕ СЕРВЕР С НАИМЕНЬШИМ ПИНГОМ P.S. Обновление 20.12.2025
+#announce: Эта подписка не рассчитана на белый список; использовать для обхода ограничений РКН; в Германии и Австралии сейчас 600 ГБ, Нидерланды — безлимит.
 
-
-
+[
 {
   "dns": {
     "hosts": {
@@ -293,7 +292,7 @@
       "tag": "dns-out"
     }
   ],
-  "remarks": "рџ‡©рџ‡Є Р“РµСЂРјР°РЅРёСЏ ",
+  "remarks": "🇩🇪 Германия",
   "routing": {
     "balancers": [
       {
@@ -335,11 +334,570 @@
         "type": "field"
       }
     ]
-  },
-  "#profile-update-interval": 1,
-  "#profile-title": "Morty Free VPN Famaly",
-  "#support-url": "https://t.me/FullNOOBS",
-  "#profile-web-page-url": "https://t.me/FullNOOBS",
-  "#announce": "Все конфигурации в подписке собраны лично мной и запрещается их дальнейшее распространение! ВНИМАНИЕ!!! СЕРВЕРА С НАЗВАНИЕМ ОПЕРАТОРА ИСПОЛЬЗОВАТЬ ТОЛЬКО КОГДА ВКЛЮЧЕНЫ БЕЛЫЕ СПИСКИ. ВЫБИРАЙТЕ СЕРВЕР С НАИМЕНЬШИМ ПИНГОМ. P.S. Обновление 20.12.2025"
-}
+  }
+},
 
+
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229",
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ],
+      "austria-nc.geodema.network": "152.53.34.145"
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": [
+          "geosite:cn"
+        ]
+      },
+      "1.1.1.1"
+    ],
+    "tag": "dns-module"
+  },
+  "fakedns": [
+    {
+      "ipPool": "198.18.0.0/15",
+      "poolSize": 10000
+    }
+  ],
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true,
+        "routeOnly": false
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10878,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "1.1.1.1",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "observatory": {
+    "enableConcurrency": true,
+    "probeInterval": "3m",
+    "probeUrl": "https://www.gstatic.com/generate_204",
+    "subjectSelector": [
+      "proxy-"
+    ]
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "austria-nc.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "c84cafa0-81d0-4035-9bcb-83c7564cd4ac",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "austria-nc.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-1"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "austria-nc.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "a7d117fa-73da-4581-9488-47b5f4c6514b",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "austria-nc.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-2"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "austria-nc.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "16230202-28f0-4251-b237-e066ccc55f11",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "austria-nc.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-3"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    }
+  ],
+  "remarks": "🇦🇹 Австралия",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "proxy-"
+        ],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "proxy-round"
+      }
+    ],
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "inboundTag": [
+          "dns-in"
+        ],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "domestic-dns"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "inboundTag": [
+          "dns-module"
+        ],
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "network": "tcp,udp",
+        "type": "field"
+      }
+    ]
+  }
+},
+
+
+
+
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229",
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ],
+      "midorinote.ru": "212.34.142.191"
+    },
+    "servers": [
+      {
+        "address": "fakedns",
+        "domains": [
+          "geosite:cn"
+        ]
+      },
+      "1.1.1.1"
+    ],
+    "tag": "dns-module"
+  },
+  "fakedns": [
+    {
+      "ipPool": "198.18.0.0/15",
+      "poolSize": 10000
+    }
+  ],
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true,
+        "routeOnly": false
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10878,
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "1.1.1.1",
+        "network": "tcp,udp",
+        "port": 53
+      },
+      "tag": "dns-in"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "observatory": {
+    "enableConcurrency": true,
+    "probeInterval": "3m",
+    "probeUrl": "https://www.gstatic.com/generate_204",
+    "subjectSelector": [
+      "proxy-"
+    ]
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "midorinote.ru",
+            "port": 8443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "9f4c447a-00ef-46ae-9b82-235a16363364",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "random",
+          "publicKey": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
+          "serverName": "m.vk.com",
+          "shortId": "387d2fb5f83c0cde",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-1"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+	  },
+    {
+      "protocol": "dns",
+      "tag": "dns-out"
+    }
+  ],
+  "remarks": "import subУмный выбор",
+  "routing": {
+    "balancers": [
+      {
+        "selector": [
+          "proxy-"
+        ],
+        "strategy": {
+          "type": "leastPing"
+        },
+        "tag": "proxy-round"
+      }
+    ],
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "inboundTag": [
+          "dns-in"
+        ],
+        "outboundTag": "dns-out",
+        "type": "field"
+      },
+      {
+        "inboundTag": [
+          "domestic-dns"
+        ],
+        "outboundTag": "direct",
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "inboundTag": [
+          "dns-module"
+        ],
+        "type": "field"
+      },
+      {
+        "balancerTag": "proxy-round",
+        "network": "tcp,udp",
+        "type": "field"
+      }
+    ]
+  }
+}
+]
