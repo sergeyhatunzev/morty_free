@@ -248,6 +248,7 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": false,
+          "fingerprint": "firefox",
           "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
           "serverName": "de-h2.geodema.network",
           "shortId": "1ed136481e0ede74",
@@ -270,6 +271,56 @@
         }
       },
       "tag": "proxy-3"
+    },
+    {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "de-h2.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "73148851-5d85-4637-b60e-9d300b7bbc76",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "firefox",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "de-h2.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-4"
     },
     {
       "protocol": "freedom",
@@ -336,6 +387,21 @@
     ]
   }
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 {
@@ -603,6 +669,56 @@
       "tag": "proxy-3"
     },
     {
+      "mux": {
+        "concurrency": -1,
+        "enabled": false
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "austria-nc.geodema.network",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "73148851-5d85-4637-b60e-9d300b7bbc76",
+                "level": 8
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "allowInsecure": false,
+          "fingerprint": "edge",
+          "publicKey": "EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8",
+          "serverName": "austria-nc.geodema.network",
+          "shortId": "1ed136481e0ede74",
+          "show": false
+        },
+        "security": "reality",
+        "sockopt": {
+          "domainStrategy": "UseIP",
+          "happyEyeballs": {
+            "interleave": 2,
+            "maxConcurrentTry": 4,
+            "prioritizeIPv6": false,
+            "tryDelayMs": 250
+          }
+        },
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "tag": "proxy-4"
+    },
+    {
       "protocol": "freedom",
       "settings": {
         "domainStrategy": "UseIP"
@@ -623,7 +739,7 @@
       "tag": "dns-out"
     }
   ],
-  "remarks": "🇦🇹 Австралия",
+  "remarks": "🇦🇹 Австрия",
   "routing": {
     "balancers": [
       {
@@ -667,6 +783,20 @@
     ]
   }
 },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
