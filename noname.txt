@@ -6,10 +6,11 @@
 
 
 # мегафон теле2 билайн неизвестно откуда спиздил
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@51.250.43.137:2053?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=firefox&type=ws&sni=vless.hubp.de#🇩🇪 МЕГАФОН, Т2, БИЛАЙН Б/С
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@51.250.43.137:2053?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=firefox&type=ws&sni=vless.hubp.de#🇩🇪  Т2, БИЛАЙН Б/С
 
 # мегафон
 vless://6956c538-39f5-41ae-97cd-10d10c3486fb@151.236.93.251:5443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=io.ozone.ru&fp=firefox&pbk=o8YEsOA3aKTU9psWS0DnKibAaDiIqB1LwxHKFmvUfig&sid=96ca8f78420ee6&spx=%2Fmarqusha_vpn&type=tcp&headerType=none#🇳🇱 МЕГАФОН, Т2, БИЛАЙН Б/С
+
 
 
 
