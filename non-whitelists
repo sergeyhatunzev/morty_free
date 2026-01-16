@@ -773,7 +773,7 @@
         "inboundTag": [
           "dns-module"
         ],
-        "type": "field"
+       "type": "field"
       },
       {
         "balancerTag": "proxy-round",
@@ -783,6 +783,7 @@
     ]
   }
 },
+
 
 
 
@@ -851,7 +852,10 @@
         "2a02:6b8::feed:0ff",
         "2a02:6b8:0:1::feed:0ff"
       ],
-      "midorinote.ru": "212.34.142.191"
+      "midorinote.ru": [
+        "212.34.142.191",
+        "64:ff9b::d422:8ebf"
+      ]
     },
     "servers": [
       {
@@ -908,8 +912,8 @@
   },
   "observatory": {
     "enableConcurrency": true,
-    "probeInterval": "3m",
-    "probeUrl": "https://www.gstatic.com/generate_204",
+    "probeInterval": "9999m",
+    "probeUrl": "https://raw.githubusercontent.com/BitDoctor/speed-test-file/refs/heads/master/1mb.txt",
     "subjectSelector": [
       "proxy-"
     ]
@@ -930,7 +934,7 @@
               {
                 "encryption": "none",
                 "flow": "xtls-rprx-vision",
-                "id": "9f4c447a-00ef-46ae-9b82-235a16363364",
+                "id": "c0393ec6-9311-4809-9d98-f43958932850",
                 "level": 8
               }
             ]
@@ -941,10 +945,10 @@
         "network": "tcp",
         "realitySettings": {
           "allowInsecure": false,
-          "fingerprint": "firefox",
-          "publicKey": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
+          "fingerprint": "random",
+          "publicKey": "wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY",
           "serverName": "m.vk.com",
-          "shortId": "387d2fb5f83c0cde",
+          "shortId": "f7aa9e61197d3ac6",
           "show": false
         },
         "security": "reality",
@@ -980,7 +984,7 @@
         }
       },
       "tag": "block"
-	  },
+    },
     {
       "protocol": "dns",
       "tag": "dns-out"
